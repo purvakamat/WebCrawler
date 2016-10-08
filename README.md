@@ -3,5 +3,5 @@ This python web crawler requires Elasticsearch to store the crawled web page con
 
 py libs required:
 
-elasticsearch
-bs4
+- elasticsearch
+- bs4
